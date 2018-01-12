@@ -1,0 +1,12 @@
+Instructions and comments about the project:
+
+1- The project I have created contains 3 files : -functions.h  is the heather file that contains the declarations of the functions.
+						 -functions.cc is the file that contains the functions code.
+						 -YTM.cc is the main file.
+
+2- To compile please follow these 3 steps      : - g++ -std=c++11 -c functions.cc  YTM.cc    	
+						 - g++ -std=c++11 -o run functions.o YTM.o
+						 - ./run
+						
+
+3-Follow the instructions printed in terminal : In this step th user is asked to enter the parameters of the model (the bond).  
